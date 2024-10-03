@@ -84,6 +84,7 @@
             TB_ShowTitle.Name = "TB_ShowTitle";
             TB_ShowTitle.Size = new Size(282, 28);
             TB_ShowTitle.TabIndex = 19;
+            TB_ShowTitle.Text = "第 1 季";
             // 
             // label3
             // 
@@ -175,7 +176,7 @@
             MaximizeBox = false;
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "Form1";
+            Text = "EasyNfoCreator";
             ((System.ComponentModel.ISupportInitialize)NUD_Season).EndInit();
             ResumeLayout(false);
             PerformLayout();
